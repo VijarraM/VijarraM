@@ -4,7 +4,7 @@
   
 
 <div align="right">
-<img src="[[https://camo.githubusercontent.com/93a438565e31dd396c21194436b0f7920889e1d552741112e1513dd2fe1a993a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmprb2dhaHJ2ZmRwMjN6cG5wdjk4Mm43bTlzb25sMGZucmE5Nmd3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" align="right" height="200" width="200"](https://www.tecnoschool.com.ar/img/cursos-nuevos/1taller-python.gif) />
+<img src="https://www.tecnoschool.com.ar/img/cursos-nuevos/1taller-python.gif" />
   <br/> 
   <br/> 
 </div>  
