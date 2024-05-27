@@ -1,6 +1,4 @@
-### <div align="center">
-
-Soy Mariano, desarrollador full-stack 👨‍💻 y graduado del Bootcamp de Programación de más de 800 horas en Henry🚀.
+### <div align="center">Soy Mariano, desarrollador full-stack 👨‍💻 y graduado del Bootcamp de Programación de más de 800 horas en Henry🚀.
 
 </div>
 
