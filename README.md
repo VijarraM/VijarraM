@@ -1,4 +1,6 @@
-### <div align="center">I'm Mariano, a full-stack developer 👨‍💻, and a graduate of the +800-hour Coding Bootcamp at Henry🚀. I'm particularly focused on backend development.
+### <div align="center">
+
+Soy Mariano, desarrollador full-stack 👨‍💻 y graduado del Bootcamp de Programación de más de 800 horas en Henry🚀.
 
 </div>
 
