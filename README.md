@@ -6,9 +6,16 @@
 <img src="https://www.tecnoschool.com.ar/img/cursos-nuevos/1taller-python.gif" align="right" height="150" width="250" />
 </div>
 
-- 🌱 I’m currently learning TypeSript and Tailwind
+¡Hola! Soy, un apasionado desarrollador FullStack con una sólida base en tecnologías como JavaScript, React, Node.JS, SQL, PostgreSQL, etc. 
 
-- ⚡ Fun fact: I have no issues with schedules, and I currently work night shifts. I'm accustomed to staying productive and focused even during unconventional hours!
+🌐 Experiencia 
+En el ámbito académico en Henry, donde he participado en proyectos tanto individuales como grupales. Comprometido con el éxito estudiantil, fomentando el aprendizaje colaborativo para alcanzar grandes resultados. 
+
+🤝 Habilidades Blandas: 
+Comunicación efectiva, Adaptabilidad, Trabajo en equipo, Resolución de problemas, Iniciativa. 
+
+Experiencia Previa 
+Analista de stock con más de 8 años de experiencia en la industria automotriz con manejo de ERP de logistica como SAP y WMS. También dueño de una franquicia donde gestiono operaciones, relaciones con clientes y personal. 
 
 <br/>
 
