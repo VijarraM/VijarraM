@@ -8,6 +8,8 @@
 
 Un apasionado desarrollador FullStack con una sólida base en tecnologías como JavaScript, React, Node.JS, SQL, PostgreSQL, etc. 
 
+
+
 🌐 Experiencia: 
 
 En el ámbito académico en Henry, donde he participado en proyectos tanto individuales como grupales. Comprometido con el éxito estudiantil, fomentando el aprendizaje colaborativo para alcanzar grandes resultados. 
