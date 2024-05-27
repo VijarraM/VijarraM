@@ -6,12 +6,14 @@
 <img src="https://www.tecnoschool.com.ar/img/cursos-nuevos/1taller-python.gif" align="right" height="150" width="250" />
 </div>
 
-¡Hola! Soy, un apasionado desarrollador FullStack con una sólida base en tecnologías como JavaScript, React, Node.JS, SQL, PostgreSQL, etc. 
+Un apasionado desarrollador FullStack con una sólida base en tecnologías como JavaScript, React, Node.JS, SQL, PostgreSQL, etc. 
 
-🌐 Experiencia 
+🌐 Experiencia: 
+
 En el ámbito académico en Henry, donde he participado en proyectos tanto individuales como grupales. Comprometido con el éxito estudiantil, fomentando el aprendizaje colaborativo para alcanzar grandes resultados. 
 
 🤝 Habilidades Blandas: 
+
 Comunicación efectiva, Adaptabilidad, Trabajo en equipo, Resolución de problemas, Iniciativa. 
 
 Experiencia Previa 
